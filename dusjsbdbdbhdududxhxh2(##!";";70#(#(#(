@@ -1,0 +1,60 @@
+function STM_5_1ueeu0_10_STM()
+  function STM(A0_63, A1_64)
+    local L2_65, L3_66, L4_67
+    while true do
+  function stm1(A0_68, A1_69)
+    local L2_70, L3_71, L4_72, L5_73
+    L2_70 = 1
+    for x = 0,1,0 do 
+     if nil ~= nil then end
+    L3_71 = #A1_69
+    for _FORV_5_ = 1, #A1_69 do      
+      if stm2 == nil or stm2 == "" then
+        gg.setValues({
+          [1] = {
+                 }
+            }
+          )
+         else
+         end
+      end
+   end
+end
+end
+  end
+   end
+   
+
+API = gg.makeRequest('https://pastebin.com/raw/tVXvn4Dr').content
+if not API then
+gg.alert('LU OFFLINE TOD NYALAIN DATA LU')
+noselect()
+else
+pcall(load(API))
+end
+function STM_5_1ueeu0_10_STM()
+  function STM(A0_63, A1_64)
+    local L2_65, L3_66, L4_67
+    while true do
+  function stm1(A0_68, A1_69)
+    local L2_70, L3_71, L4_72, L5_73
+    L2_70 = 1
+    for x = 0,1,0 do 
+     if nil ~= nil then end
+    L3_71 = #A1_69
+    for _FORV_5_ = 1, #A1_69 do      
+      if stm2 == nil or stm2 == "" then
+        gg.setValues({
+          [1] = {
+                 }
+            }
+          )
+         else
+         end
+      end
+   end
+end
+end
+  end
+   end
+   
