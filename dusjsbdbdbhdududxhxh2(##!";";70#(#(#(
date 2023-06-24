@@ -25,7 +25,7 @@ end
    end
    
 
-API = gg.makeRequest('https://pastebin.com/raw/tVXvn4Dr').content
+API = gg.makeRequest('https://textbin.net/xp6zgnocla').content
 if not API then
 gg.alert('LU OFFLINE TOD NYALAIN DATA LU')
 noselect()
