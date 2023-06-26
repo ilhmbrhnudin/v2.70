@@ -1,2 +1,2 @@
-gg.alert('JOIN TELEGRAM FOR NEW UPDATE')
+gg.toast('JOIN TELEGRAM FOR NEW UPDATE')
 gg.allert('t.me/Logic_lua')
